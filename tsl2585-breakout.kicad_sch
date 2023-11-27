@@ -1,0 +1,22 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc)
+
+  (paper "USLetter")
+
+  (title_block
+    (title "TSL2585 Sensor Breakout Board")
+    (date "2023-11-27")
+    (rev "A")
+    (company "LogicProbe.org")
+    (comment 1 "Derek Konigsberg <dkonigsberg@logicprobe.org>")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

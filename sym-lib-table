@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AMS_Sensor_Optical")(type "KiCad")(uri "${KIPRJMOD}/library/symbols/AMS_Sensor_Optical.kicad_sym")(options "")(descr ""))
+)
