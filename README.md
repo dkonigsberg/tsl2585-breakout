@@ -16,4 +16,4 @@ include:
 
 ![Board](https://raw.githubusercontent.com/dkonigsberg/tsl2585-breakout/master/docs/images/pcb-model.jpg)
 
-![Schematic](https://raw.githubusercontent.com/dkonigsberg/tsl2585-breakout/master/docs/images/schematic.jpg)
+![Schematic](https://raw.githubusercontent.com/dkonigsberg/tsl2585-breakout/master/docs/images/schematic.png)
