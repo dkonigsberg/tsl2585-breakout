@@ -13,3 +13,9 @@ include:
 * [TSL2521](https://ams.com/en/tsl2521) - Light sensor with Clear and IR channels, and flicker detection
 * [TSL2585](https://ams.com/en/tsl2585) - Light sensor with Photopic, UV-A, and IR channels, and flicker detection
 * [TCS3410](https://ams.com/en/tcs3410) - Light sensor with Color channels and flicker detection
+
+![Board](https://github.com/dkonigsberg/tsl2585-breakout/blob
+/master/docs/images/pcb-model.png?raw=true)
+
+![Schematic](https://github.com/dkonigsberg/tsl2585-breakout/blob
+/master/docs/images/schematic.png?raw=true)
