@@ -866,14 +866,6 @@
     )
   )
 
-  (gr_rect (start 53.5 32.3) (end 54.5 31.3)
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 32a64b0f-d6b0-4789-9c33-70a0a10073d8))
-  (gr_rect (start 53.5 30.7) (end 54.5 29.7)
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 5463b71c-086f-4dd3-b3d0-8d389406444f))
-  (gr_rect (start 53.5 35.5) (end 54.5 34.5)
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 9db497a7-e0ff-44ae-b4d9-30eeedc5e270))
-  (gr_rect (start 53.5 33.9) (end 54.5 32.9)
-    (stroke (width 0.12) (type solid)) (fill solid) (layer "B.SilkS") (tstamp c9a40c2c-4713-4e21-a011-a058c0a1b2f8))
   (gr_line (start 42.5 23) (end 42.5 41)
     (stroke (width 0.05) (type default)) (layer "Cmts.User") (tstamp 3000ffe5-b75b-4431-bd02-05335161e204))
   (gr_arc (start 52 23) (mid 54.12132 23.87868) (end 55 26)
@@ -892,10 +884,7 @@
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp 9bfeefb8-df79-47b3-8c90-db7d206df9e0))
   (gr_line (start 55 26) (end 55 38.37868)
     (stroke (width 0.05) (type default)) (layer "Edge.Cuts") (tstamp cd9ba332-f777-4891-9d2d-294bc897e2e3))
-  (gr_text "TSL2520\nTSL2521\nTSL2585\nTCS3410" (at 53.2 35.7) (layer "B.SilkS") (tstamp 6b5ae48a-f7e6-4fdb-95c4-cca5dc8ec693)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
-  )
-  (gr_text "Sensor Breakout" (at 42.5 24.8) (layer "F.SilkS") (tstamp 0f343b5e-6d55-49a7-a78e-0a598d12ee19)
+  (gr_text "TSL2585 Breakout" (at 42.5 24.8) (layer "F.SilkS") (tstamp 0f343b5e-6d55-49a7-a78e-0a598d12ee19)
     (effects (font (size 1 1) (thickness 0.15)) (justify bottom))
   )
   (gr_text "V_{PU}" (at 38.705 40.7) (layer "F.SilkS") (tstamp 2954bfcb-c9e0-4714-a4a8-4e0d2aa51942)
@@ -1975,15 +1964,6 @@
         (xy 34.770128 23.3005)
         (xy 50.229872 23.3005)
       )
-    )
-  )
-  (group "" (id 86eee78b-b9e9-43e6-ac21-624bcd37a39e)
-    (members
-      32a64b0f-d6b0-4789-9c33-70a0a10073d8
-      5463b71c-086f-4dd3-b3d0-8d389406444f
-      6b5ae48a-f7e6-4fdb-95c4-cca5dc8ec693
-      9db497a7-e0ff-44ae-b4d9-30eeedc5e270
-      c9a40c2c-4713-4e21-a011-a058c0a1b2f8
     )
   )
 )

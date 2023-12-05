@@ -2,17 +2,12 @@
 
 This repository contains the [KiCad](http://kicad.org/) project
 with the complete circuit schematics and PCB layout for a breakout
-board that supports a certain series of 1.8V light sensors from
-[AMS](https://ams-osram.com/).
+board that supports the [TSL2585](https://ams.com/en/tsl2585) light sensor from
+[AMS](https://ams-osram.com/). This sensor has Photopic, UV-A, and IR channels,
+as well as flicker detection.
 
-The supported selection of sensors all appear to be pin-compatible,
-interface compatible, and only differ in minor ways. These sensors
-include:
-
-* [TSL2520](https://ams.com/en/tsl2520) - Light sensor with Clear and IR channels
-* [TSL2521](https://ams.com/en/tsl2521) - Light sensor with Clear and IR channels, and flicker detection
-* [TSL2585](https://ams.com/en/tsl2585) - Light sensor with Photopic, UV-A, and IR channels, and flicker detection
-* [TCS3410](https://ams.com/en/tcs3410) - Light sensor with Color channels and flicker detection
+AMS makes several other sensors that are extremely similar to this one, but they
+are not pin compatible.
 
 ![Board](https://raw.githubusercontent.com/dkonigsberg/tsl2585-breakout/master/docs/images/pcb-model.jpg)
 
